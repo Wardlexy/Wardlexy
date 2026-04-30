@@ -38,14 +38,13 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&logoColor=fff&labelColor=0d1117&color=21262d)
-![FastAPI](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logoColor=fff&labelColor=0d1117&color=21262d)
-![Groq](https://img.shields.io/badge/Groq%20API-0d1117?style=flat-square&logoColor=fff&labelColor=0d1117&color=21262d)
-![LLaMA](https://img.shields.io/badge/LLaMA%203.3%2070B-0d1117?style=flat-square&logoColor=fff&labelColor=0d1117&color=21262d)
-![Whisper](https://img.shields.io/badge/Whisper-0d1117?style=flat-square&logoColor=fff&labelColor=0d1117&color=21262d)
-![CrewAI](https://img.shields.io/badge/CrewAI-0d1117?style=flat-square&logoColor=fff&labelColor=0d1117&color=21262d)
-![Railway](https://img.shields.io/badge/Railway-0d1117?style=flat-square&logo=railway&logoColor=fff&labelColor=0d1117&color=21262d)
-![Playwright](https://img.shields.io/badge/Playwright-0d1117?style=flat-square&logo=playwright&logoColor=fff&labelColor=0d1117&color=21262d)
+![LangGraph](https://img.shields.io/badge/LangGraph-21262d?style=for-the-badge&logoColor=fff&color=21262d)
+![LangChain](https://img.shields.io/badge/LangChain-21262d?style=for-the-badge&logoColor=fff&color=21262d)
+![Groq](https://img.shields.io/badge/Groq_API-21262d?style=for-the-badge&logoColor=fff&color=21262d)
+![LLaMA](https://img.shields.io/badge/LLaMA_3.3_70B-21262d?style=for-the-badge&logoColor=fff&color=21262d)
+![Whisper](https://img.shields.io/badge/Whisper-21262d?style=for-the-badge&logoColor=fff&color=21262d)
+![CrewAI](https://img.shields.io/badge/CrewAI-21262d?style=for-the-badge&logoColor=fff&color=21262d)
+![Playwright](https://img.shields.io/badge/Playwright-21262d?style=for-the-badge&logo=playwright&logoColor=fff&color=21262d)
 
 </div>
 
