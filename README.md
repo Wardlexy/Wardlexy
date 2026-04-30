@@ -12,8 +12,6 @@
 
 ---
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=Wardlexy&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=ffffff&rank_icon=percentile"/>
-
 **🤖 &nbsp;Focus** &nbsp;&nbsp;&nbsp;&nbsp;Agentic AI · MLOps · AgentOps
 
 **🎓 &nbsp;Education** &nbsp;CS · Binus University
