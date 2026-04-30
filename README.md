@@ -26,12 +26,12 @@
 <td>Agentic AI · MLOps · AgentOps</td>
 </tr>
 <tr>
-<td align="left"><b>🎯 &nbsp;Target</b></td>
-<td>Apple Developer Academy 2027</td>
+
+
 </tr>
 <tr>
 <td align="left"><b>📍 &nbsp;Based</b></td>
-<td>South Tangerang, Indonesia</td>
+<td>Jakarta, Indonesia</td>
 </tr>
 </table>
 
@@ -180,7 +180,7 @@ Autonomous anomaly detection with real-time dashboard. E-commerce domain. Python
 &nbsp;
 ![](https://img.shields.io/badge/PORTFOLIO%20PROJECTS-4-000?style=for-the-badge&labelColor=000&color=111)
 &nbsp;
-![](https://img.shields.io/badge/TARGET-APPLE%20DA%202027-000?style=for-the-badge&labelColor=000&color=111)
+
 
 </div>
 
