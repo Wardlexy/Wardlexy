@@ -20,7 +20,7 @@
 
 **📍 &nbsp;Based** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jakarta, Indonesia
 
-**🌐 &nbsp;Portfolio** &nbsp;&nbsp;[wardcv.netlify.app](https://wardcv.netlify.app)
+**💼 &nbsp;LinkedIn** &nbsp;&nbsp;&nbsp;[linkedin.com/in/edward-alexander](https://www.linkedin.com/in/edward-alexander-86a10929a/)
 
 <br clear="right"/>
 
