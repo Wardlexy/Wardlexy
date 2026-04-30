@@ -1,14 +1,10 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=blur&height=280&color=0:000000,50:0a0a0a,100:000000&text=EDWARD%20ALEXANDER&fontColor=ffffff&fontSize=42&fontAlign=50&fontAlignY=42&desc=Agentic%20AI%20%C2%B7%20MLOps%20%C2%B7%20Database%20Technology&descFontColor=555555&descSize=13&descAlign=50&descAlignY=58&animation=twinkling&stroke=222222&strokeWidth=0)
-
-</div>
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=timeAuto&text=Edward%20Alexander&fontColor=ffffff&fontSize=44&fontAlign=50&fontAlignY=40&desc=Agentic%20AI%20Engineer%20%C2%B7%20MLOps&descFontColor=aaaaaa&descSize=16&descAlign=50&descAlignY=62&animation=fadeIn)
 
 <br>
 
-<div align="center">
-
-![](https://img.shields.io/badge/STATUS-BUILDING%20AGENTS%20THAT%20SHIP-000?style=for-the-badge&labelColor=000&color=111&logoColor=fff)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=500&height=60&lines=building+autonomous+agents+that+ship+%F0%9F%A4%96;agentic+ai+%C2%B7+mlops+%C2%B7+agentops)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,97 +12,40 @@
 
 ---
 
-<table align="center">
-<tr>
-<td align="left"><b>🎓 &nbsp;Education</b></td>
-<td>CS · Binus University · Database Technology</td>
-</tr>
-<tr>
-<td align="left"><b>🤖 &nbsp;Focus</b></td>
-<td>Agentic AI · MLOps · AgentOps</td>
-</tr>
-<tr>
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=Wardlexy&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=ffffff&rank_icon=percentile"/>
 
+**🤖 &nbsp;Focus** &nbsp;&nbsp;&nbsp;&nbsp;Agentic AI · MLOps · AgentOps
 
-</tr>
-<tr>
-<td align="left"><b>📍 &nbsp;Based</b></td>
-<td>Jakarta, Indonesia</td>
-</tr>
-</table>
+**🎓 &nbsp;Education** &nbsp;CS · Binus University
 
-<br>
+**📍 &nbsp;Based** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jakarta, Indonesia
+
+**🌐 &nbsp;Portfolio** &nbsp;&nbsp;[wardcv.netlify.app](https://wardcv.netlify.app)
+
+<br clear="right"/>
 
 ---
 
 ### `/ stack`
 
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgres,docker,vercel,github,git,linux,js,html,vscode,figma&theme=dark&perline=6)](https://skillicons.dev)
+
+</div>
+
 <br>
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="90">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="40"/><br>
-<sub>Python</sub>
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=fastapi" width="40"/><br>
-<sub>FastAPI</sub>
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=postgresql" width="40"/><br>
-<sub>PostgreSQL</sub>
-</td>
-<td align="center" width="90">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="40"/><br>
-<sub>Docker</sub>
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=github" width="40"/><br>
-<sub>GitHub</sub>
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=vercel" width="40"/><br>
-<sub>Vercel</sub>
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=railway" width="40"/><br>
-<sub>Railway</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=html" width="40"/><br>
-<sub>HTML</sub>
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=js" width="40"/><br>
-<sub>JavaScript</sub>
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=vscode" width="40"/><br>
-<sub>VS Code</sub>
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=linux" width="40"/><br>
-<sub>Linux</sub>
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=git" width="40"/><br>
-<sub>Git</sub>
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=figma" width="40"/><br>
-<sub>Figma</sub>
-</td>
-<td align="center" width="90">
-<img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="40"/><br>
-<sub>REST API</sub>
-</td>
-</tr>
-</table>
+![Python](https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&logoColor=fff&labelColor=0d1117&color=21262d)
+![FastAPI](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logoColor=fff&labelColor=0d1117&color=21262d)
+![Groq](https://img.shields.io/badge/Groq%20API-0d1117?style=flat-square&logoColor=fff&labelColor=0d1117&color=21262d)
+![LLaMA](https://img.shields.io/badge/LLaMA%203.3%2070B-0d1117?style=flat-square&logoColor=fff&labelColor=0d1117&color=21262d)
+![Whisper](https://img.shields.io/badge/Whisper-0d1117?style=flat-square&logoColor=fff&labelColor=0d1117&color=21262d)
+![CrewAI](https://img.shields.io/badge/CrewAI-0d1117?style=flat-square&logoColor=fff&labelColor=0d1117&color=21262d)
+![Railway](https://img.shields.io/badge/Railway-0d1117?style=flat-square&logo=railway&logoColor=fff&labelColor=0d1117&color=21262d)
+![Playwright](https://img.shields.io/badge/Playwright-0d1117?style=flat-square&logo=playwright&logoColor=fff&labelColor=0d1117&color=21262d)
 
 </div>
 
@@ -122,45 +61,40 @@
 <tr>
 <td width="50%" valign="top">
 
-<h4>⬤ &nbsp;MediRoute &nbsp;<a href="https://mediroute-zeta.vercel.app"><img src="https://img.shields.io/badge/LIVE-000?style=flat-square&logo=vercel&logoColor=ffffff"/></a></h4>
+**⬤ &nbsp;MediRoute** &nbsp;[![live](https://img.shields.io/badge/LIVE-21262d?style=flat-square&logo=vercel&logoColor=3fb950)](https://mediroute-zeta.vercel.app)
 
-Healthcare triage agent. Multi-language detection, color-coded severity scoring, Google Maps hospital routing.
+Healthcare triage agent. Multi-language detection, color-coded severity, Google Maps hospital routing.
 
-![FastAPI](https://img.shields.io/badge/FastAPI-000?style=flat-square&logo=fastapi&logoColor=fff)
-![Groq](https://img.shields.io/badge/Groq-000?style=flat-square&logoColor=fff)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=fff)
+`FastAPI` `Groq` `Vercel`
 
 </td>
 <td width="50%" valign="top">
 
-<h4>⬤ &nbsp;JobAgent &nbsp;<a href="https://github.com/Wardlexy/job-agent"><img src="https://img.shields.io/badge/LIVE-000?style=flat-square&logo=railway&logoColor=ffffff"/></a></h4>
+**⬤ &nbsp;JobAgent** &nbsp;[![live](https://img.shields.io/badge/LIVE-21262d?style=flat-square&logo=railway&logoColor=3fb950)](https://github.com/Wardlexy/job-agent)
 
-CV parsing pipeline with intelligent job fit scoring and real-time streaming cover letter generation.
+CV parsing + job fit scoring + real-time streaming cover letter generation.
 
-![LLM](https://img.shields.io/badge/LLM-000?style=flat-square&logoColor=fff)
-![Railway](https://img.shields.io/badge/Railway-000?style=flat-square&logo=railway&logoColor=fff)
-![Streaming](https://img.shields.io/badge/Streaming-000?style=flat-square&logoColor=fff)
+`LLM` `Railway` `Streaming`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h4>Beelingua</h4>
+**Beelingua**
 
-Browser automation agent for language learning. Playwright-powered agentic web navigation and task completion.
+Browser automation agent for language learning. Playwright-powered agentic web navigation.
 
-![Playwright](https://img.shields.io/badge/Playwright-000?style=flat-square&logo=playwright&logoColor=fff)
-![Agents](https://img.shields.io/badge/Agents-000?style=flat-square&logoColor=fff)
+`Playwright` `Agents`
 
 </td>
 <td width="50%" valign="top">
 
-<h4>· · · &nbsp;Data Pipeline Monitor</h4>
+**· · · &nbsp;Data Pipeline Monitor**
 
-Autonomous anomaly detection with real-time dashboard. E-commerce domain. Python-heavy.
+Autonomous anomaly detection. Real-time dashboard. E-commerce domain.
 
-![In Progress](https://img.shields.io/badge/In%20Progress-0a0a0a?style=flat-square&logoColor=333)
+`In Progress`
 
 </td>
 </tr>
@@ -172,15 +106,11 @@ Autonomous anomaly detection with real-time dashboard. E-commerce domain. Python
 
 ### `/ stats`
 
-<br>
-
 <div align="center">
 
-![](https://img.shields.io/badge/AGENTS%20DEPLOYED-3-000?style=for-the-badge&labelColor=000&color=111)
-&nbsp;
-![](https://img.shields.io/badge/PORTFOLIO%20PROJECTS-4-000?style=for-the-badge&labelColor=000&color=111)
-&nbsp;
-
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wardlexy&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&langs_count=6"/>
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Wardlexy&theme=github-dark&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=888888&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=444444"/>
 
 </div>
 
@@ -189,8 +119,6 @@ Autonomous anomaly detection with real-time dashboard. E-commerce domain. Python
 ---
 
 ### `/ activity`
-
-<br>
 
 <div align="center">
 
@@ -206,6 +134,6 @@ Autonomous anomaly detection with real-time dashboard. E-commerce domain. Python
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=80&color=0:111111,100:000000&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=timeAuto&section=footer&reversal=true&animation=fadeIn)
 
 </div>
