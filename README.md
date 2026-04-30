@@ -1,10 +1,10 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4a4a4a,50:888888,100:4a4a4a&text=Edward%20Alexander&fontColor=ffffff&fontSize=44&fontAlign=50&fontAlignY=40&desc=Agentic%20AI%20Engineer%20%C2%B7%20MLOps&descFontColor=aaaaaa&descSize=16&descAlign=50&descAlignY=62&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4a4a4a,50:888888,100:4a4a4a&text=Edward%20Alexander&fontColor=ffffff&fontSize=44&fontAlign=50&fontAlignY=40&desc=Agentic%20AI%20Engineer%20%C2%B7%20MLOps%20%C2%B7%20AgentOps&descFontColor=aaaaaa&descSize=16&descAlign=50&descAlignY=62&animation=fadeIn)
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=500&height=60&lines=building+autonomous+agents+that+ship+%F0%9F%A4%96;agentic+ai+%C2%B7+mlops+%C2%B7+agentops)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=500&height=60&lines=building+autonomous+agents+that+ship;agentic+ai+%C2%B7+mlops+%C2%B7+agentops)](https://git.io/typing-svg)
 
 </div>
 
