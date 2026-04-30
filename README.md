@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=timeAuto&text=Edward%20Alexander&fontColor=ffffff&fontSize=44&fontAlign=50&fontAlignY=40&desc=Agentic%20AI%20Engineer%20%C2%B7%20MLOps&descFontColor=aaaaaa&descSize=16&descAlign=50&descAlignY=62&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:1a1a1a,100:000000&text=Edward%20Alexander&fontColor=ffffff&fontSize=44&fontAlign=50&fontAlignY=40&desc=Agentic%20AI%20Engineer%20%C2%B7%20MLOps&descFontColor=666666&descSize=16&descAlign=50&descAlignY=62&animation=twinkling&stroke=333333&strokeWidth=1)
 
 <br>
 
@@ -134,6 +134,6 @@ Autonomous anomaly detection. Real-time dashboard. E-commerce domain.
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=timeAuto&section=footer&reversal=true&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=0:000000,50:1a1a1a,100:000000&section=footer&reversal=true&animation=twinkling)
 
 </div>
