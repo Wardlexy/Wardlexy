@@ -50,9 +50,9 @@ Currently sharpening my work around code that is easy to read, easy to run, and 
 ### Snapshot
 
 <p align="center">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Wardlexy&show_icons=true&hide_border=true&title_color=f0f6fc&text_color=8b949e&icon_color=f0f6fc&bg_color=0d1117">
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wardlexy&layout=compact&hide_border=true&title_color=f0f6fc&text_color=8b949e&bg_color=0d1117">
+  <img alt="profile snapshot" src="assets/snapshot.svg" width="720">
 </p>
+
 
 ### Contributions
 
