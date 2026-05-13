@@ -39,12 +39,8 @@ Currently sharpening my work around code that is easy to read, easy to run, and 
 
 ### Stack
 
-<p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white">
+<p align="center">
+  <img alt="animated stack badges" src="assets/stack.svg" width="760">
 </p>
 
 ### Snapshot

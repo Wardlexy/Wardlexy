@@ -21,7 +21,7 @@
   </circle>
   <text x="80" y="286" fill="#8B949E" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="16" letter-spacing="2">PROFILE / README</text>
   <text x="80" y="132" fill="#F0F6FC" font-family="Inter, Arial, sans-serif" font-size="72" font-weight="700" letter-spacing="0">Wardlexy</text>
-  <text x="84" y="176" fill="#8B949E" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="22">minimal code. clean commits. steady progress.</text>
+  <text x="84" y="176" fill="#8B949E" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="22">steady progress.</text>
   <g transform="translate(875 103)">
     <rect x="0" y="0" width="250" height="150" rx="12" fill="#0D1117" stroke="#30363D"/>
     <path d="M28 42H222" stroke="#F0F6FC" stroke-width="8" stroke-linecap="round" stroke-dasharray="194" stroke-dashoffset="194">
