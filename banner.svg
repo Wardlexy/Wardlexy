@@ -1,0 +1,42 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Wardlexy profile banner</title>
+  <desc id="desc">A dark minimalist black, white, and grey banner for a GitHub profile.</desc>
+  <rect width="1280" height="360" fill="#0D1117"/>
+  <rect x="40" y="40" width="1200" height="280" rx="18" fill="#111111" stroke="#30363D"/>
+  <rect x="-260" y="40" width="220" height="280" rx="18" fill="#F0F6FC" opacity="0.035">
+    <animate attributeName="x" values="-260;1320" dur="7s" repeatCount="indefinite"/>
+  </rect>
+  <path d="M80 252H1200" stroke="#30363D" stroke-width="1"/>
+  <path d="M80 108H1200" stroke="#21262D" stroke-width="1"/>
+  <path d="M206 84V276" stroke="#21262D" stroke-width="1"/>
+  <path d="M1074 84V276" stroke="#21262D" stroke-width="1"/>
+  <circle cx="105" cy="76" r="6" fill="#F0F6FC">
+    <animate attributeName="opacity" values="1;0.35;1" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="127" cy="76" r="6" fill="#8B949E">
+    <animate attributeName="opacity" values="0.35;1;0.35" dur="2.8s" begin="0.35s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="149" cy="76" r="6" fill="#30363D">
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="2.8s" begin="0.7s" repeatCount="indefinite"/>
+  </circle>
+  <text x="80" y="286" fill="#8B949E" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="16" letter-spacing="2">PROFILE / README</text>
+  <text x="80" y="132" fill="#F0F6FC" font-family="Inter, Arial, sans-serif" font-size="72" font-weight="700" letter-spacing="0">Wardlexy</text>
+  <text x="84" y="176" fill="#8B949E" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="22">steady progress.</text>
+  <g transform="translate(875 103)">
+    <rect x="0" y="0" width="250" height="150" rx="12" fill="#0D1117" stroke="#30363D"/>
+    <path d="M28 42H222" stroke="#F0F6FC" stroke-width="8" stroke-linecap="round" stroke-dasharray="194" stroke-dashoffset="194">
+      <animate attributeName="stroke-dashoffset" values="194;0;0;194" dur="5.5s" repeatCount="indefinite"/>
+    </path>
+    <path d="M28 76H178" stroke="#8B949E" stroke-width="8" stroke-linecap="round" stroke-dasharray="150" stroke-dashoffset="150">
+      <animate attributeName="stroke-dashoffset" values="150;150;0;0;150" dur="5.5s" repeatCount="indefinite"/>
+    </path>
+    <path d="M28 110H205" stroke="#30363D" stroke-width="8" stroke-linecap="round" stroke-dasharray="177" stroke-dashoffset="177">
+      <animate attributeName="stroke-dashoffset" values="177;177;177;0;177" dur="5.5s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <path d="M650 92L691 180L650 268" stroke="#F0F6FC" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M597 92L556 180L597 268" stroke="#8B949E" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M612 266L636 94" stroke="#30363D" stroke-width="10" stroke-linecap="round">
+    <animate attributeName="opacity" values="0.45;1;0.45" dur="3.2s" repeatCount="indefinite"/>
+  </path>
+</svg>

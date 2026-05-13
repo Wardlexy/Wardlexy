@@ -53,7 +53,6 @@ Currently sharpening my work around code that is easy to read, easy to run, and 
   <img alt="profile snapshot" src="assets/snapshot.svg" width="720">
 </p>
 
-
 ### Contributions
 
 <p align="center">
@@ -66,21 +65,7 @@ Currently sharpening my work around code that is easy to read, easy to run, and 
 
 ### Featured
 
-```txt
-01  pin your strongest repo here
-02  add a one-line reason why it matters
-03  keep it clean, no over-explaining
-```
-
 | Project | Notes |
 | --- | --- |
-| [Project One](https://github.com/Wardlexy) | A focused build with a clear purpose. |
-| [Project Two](https://github.com/Wardlexy) | Another experiment worth showing. |
-
----
-
-<p align="center">
-  <samp>
-    less noise, more signal.
-  </samp>
-</p>
+| [README Profile](https://github.com/Wardlexy/Wardlexy) | Minimal monochrome profile with subtle animated SVG details. |
+| [Coming Soon](https://github.com/Wardlexy?tab=repositories) | Replace this with a project you want people to notice first. |
