@@ -1,0 +1,28 @@
+<svg width="640" height="52" viewBox="0 0 640 52" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Animated status line</title>
+  <desc id="desc">A subtle animated terminal-style status line.</desc>
+  <rect width="640" height="52" rx="10" fill="#0D1117"/>
+  <rect x="0.5" y="0.5" width="639" height="51" rx="9.5" stroke="#30363D"/>
+  <circle cx="23" cy="26" r="4" fill="#F0F6FC">
+    <animate attributeName="opacity" values="1;0.3;1" dur="1.7s" repeatCount="indefinite"/>
+  </circle>
+  <text x="42" y="32" fill="#8B949E" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="16">status:</text>
+  <g font-family="Consolas, Monaco, 'Courier New', monospace" font-size="16">
+    <text x="116" y="32" fill="#F0F6FC" opacity="1">building useful things
+      <animate attributeName="opacity" values="1;1;0;0;0;1" keyTimes="0;0.28;0.34;0.66;0.9;1" dur="9s" repeatCount="indefinite"/>
+    </text>
+    <text x="116" y="32" fill="#F0F6FC" opacity="0">cleaning messy ideas
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.28;0.34;0.61;0.67;1" dur="9s" repeatCount="indefinite"/>
+    </text>
+    <text x="116" y="32" fill="#F0F6FC" opacity="0">shipping, then refining
+      <animate attributeName="opacity" values="0;0;0;0;1;1;0" keyTimes="0;0.58;0.64;0.66;0.72;0.93;1" dur="9s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <rect x="330" y="16" width="9" height="21" fill="#F0F6FC">
+    <animate attributeName="opacity" values="1;1;0;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  <path d="M430 26H594" stroke="#30363D" stroke-width="4" stroke-linecap="round"/>
+  <path d="M430 26H496" stroke="#8B949E" stroke-width="4" stroke-linecap="round">
+    <animate attributeName="d" values="M430 26H456;M430 26H594;M430 26H496;M430 26H456" dur="4s" repeatCount="indefinite"/>
+  </path>
+</svg>
