@@ -9,12 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Wardlexy?tab=repositories">
-    <img alt="Repositories" src="https://img.shields.io/badge/repos-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d">
-  </a>
-  <a href="https://github.com/Wardlexy">
-    <img alt="GitHub" src="https://img.shields.io/badge/github-Wardlexy-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d">
-  </a>
+  <a href="https://github.com/Wardlexy?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/repos-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d"></a>
 </p>
 
 ---
