@@ -59,9 +59,3 @@ Currently sharpening my work around code that is easy to read, easy to run, and 
   </picture>
 </p>
 
-### Featured
-
-| Project | Notes |
-| --- | --- |
-| [README Profile](https://github.com/Wardlexy/Wardlexy) | Minimal monochrome profile with subtle animated SVG details. |
-| [Coming Soon](https://github.com/Wardlexy?tab=repositories) | Replace this with a project you want people to notice first. |
