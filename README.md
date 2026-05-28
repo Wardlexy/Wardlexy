@@ -29,13 +29,7 @@ theme      black / white / grey, quietly sharp
 ```
 
 I like projects that feel useful, intentional, and not too noisy.  
-Currently sharpening my work around code that is easy to read, easy to run, and easy to improve.
-
-### Working On
-
-- Small tools that solve real problems.
-- Cleaner project structure and better README/documentation habits.
-- Experiments that turn random ideas into something usable.
+Currently sharpening my work around code that is ez to read, ez to run, and ez to improve.
 
 ### Stack
 
