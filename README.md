@@ -9,7 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Wardlexy?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/repos-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=30363d"></a>
+  <a href="https://ward-portfolio-three.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-30363d?style=flat-square&logo=vercel&logoColor=white"></a>
+  <a href="https://github.com/Wardlexy?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/repositories-30363d?style=flat-square&logo=github&logoColor=white"></a>
 </p>
 
 ---
@@ -17,14 +18,12 @@
 ### About
 
 ```txt
-focus      practical software, clean interfaces, and useful automation
+role       data & analytics engineer
+focus      data pipelines, lakehouses, clean delivery layers
 style      simple first, polished after
 mindset    keep shipping, keep improving
 theme      black / white / grey, quietly sharp
 ```
-
-I like projects that feel useful, intentional, and not too noisy.  
-Currently sharpening my work around code that is ez to read, ez to run, and ez to improve.
 
 ### Stack
 
@@ -32,11 +31,16 @@ Currently sharpening my work around code that is ez to read, ez to run, and ez t
   <img alt="animated stack badges" src="assets/stack.svg" width="760">
 </p>
 
-### Snapshot
+### Featured
 
-<p align="center">
-  <img alt="profile snapshot" src="assets/snapshot.svg" width="720">
-</p>
+| project | what it is | stack |
+| :-- | :-- | :-- |
+| **[gwosc-data-pipeline](https://github.com/Wardlexy/gwosc-data-pipeline)** | ELT over the LIGO / Virgo / KAGRA gravitational-wave catalog, plus a GW150914 black-hole-merger detection rebuilt from raw strain data | python, duckdb, scipy |
+| **[Ecommerce-Churn-Data-Platform](https://github.com/Wardlexy/Ecommerce-Churn-Data-Platform)** | end-to-end churn platform: etl, dbt models, airflow orchestration, dashboard | python, dbt, airflow |
+| **[Retail-Big-Data-Lakehouse-Forecasting](https://github.com/Wardlexy/Retail-Big-Data-Lakehouse-Forecasting)** | bronze / silver / gold lakehouse with quality checks and bi marts | spark, delta |
+| **[Job-Market-Skill-Analytics-Pipeline](https://github.com/Wardlexy/Job-Market-Skill-Analytics-Pipeline)** | pipeline that pulls and analyzes in-demand tech skills from job listings | python, sql |
+| **[Ward-Agent-Studio](https://github.com/Wardlexy/Ward-Agent-Studio)** | isometric multi-room ai agent workspace &middot; [live](https://ward-agent-studio.vercel.app) | typescript, react |
+| **[NutriCheck](https://github.com/Wardlexy/NutriCheck)** | nutrition-scanning web app &middot; [live](https://aol-nutri-check.vercel.app/) | typescript, react |
 
 ### Contributions
 
@@ -55,4 +59,3 @@ Currently sharpening my work around code that is ez to read, ez to run, and ez t
     <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Wardlexy/Wardlexy/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </p>
-
