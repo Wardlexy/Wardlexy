@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ward-portfolio-three.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-30363d?style=flat-square&logo=vercel&logoColor=white"></a>
+  <a href="https://wardlexy.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-30363d?style=flat-square&logo=vercel&logoColor=white"></a>
   <a href="https://github.com/Wardlexy?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/repositories-30363d?style=flat-square&logo=github&logoColor=white"></a>
 </p>
 
