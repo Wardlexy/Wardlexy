@@ -20,9 +20,6 @@
 ```txt
 role       data & analytics engineer
 focus      data pipelines, lakehouses, clean delivery layers
-style      simple first, polished after
-mindset    keep shipping, keep improving
-theme      black / white / grey, quietly sharp
 ```
 
 ### Stack
