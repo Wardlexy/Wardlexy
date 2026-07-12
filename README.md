@@ -18,8 +18,8 @@
 ### About
 
 ```txt
-role       data & analytics engineer
-focus      data pipelines, lakehouses, clean delivery layers
+role       data engineer, backend engineer
+focus      data pipelines, backend apis, clean delivery layers
 ```
 
 ### Stack
@@ -35,7 +35,7 @@ focus      data pipelines, lakehouses, clean delivery layers
 | **[Ecommerce-Churn-Data-Platform](https://github.com/Wardlexy/Ecommerce-Churn-Data-Platform)** | churn data platform: etl, dbt models, airflow orchestration, dashboard | python, dbt, airflow |
 | **[Retail-Big-Data-Lakehouse-Forecasting](https://github.com/Wardlexy/Retail-Big-Data-Lakehouse-Forecasting)** | bronze / silver / gold lakehouse with quality checks and bi marts | spark, delta |
 | **[Ward-Agent-Studio](https://github.com/Wardlexy/Ward-Agent-Studio)** | isometric multi-room ai agent workspace &middot; [live](https://ward-agent-studio.vercel.app) | typescript, react |
-| **[blue-carbon-registry](https://github.com/Wardlexy/blue-carbon-registry)** | rest api for a blue carbon credit registry: jwt roles, credit issuance, and orders that retire credits so they can't be sold twice | fastapi, sqlalchemy, postgres |
+| **[Blue-Carbon-Registry](https://github.com/Wardlexy/Blue-Carbon-Registry)** | rest api for a blue carbon credit registry: jwt roles, credit issuance, and orders that retire credits so they can't be sold twice | fastapi, sqlalchemy, postgres |
 
 ### Contributions
 
