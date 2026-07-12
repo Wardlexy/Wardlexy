@@ -32,12 +32,10 @@ focus      data pipelines, lakehouses, clean delivery layers
 
 | project | what it is | stack |
 | :-- | :-- | :-- |
-| **[gwosc-data-pipeline](https://github.com/Wardlexy/gwosc-data-pipeline)** | ELT over the LIGO / Virgo / KAGRA gravitational-wave catalog, plus a GW150914 black-hole-merger detection rebuilt from raw strain data | python, duckdb, scipy |
-| **[Ecommerce-Churn-Data-Platform](https://github.com/Wardlexy/Ecommerce-Churn-Data-Platform)** | end-to-end churn platform: etl, dbt models, airflow orchestration, dashboard | python, dbt, airflow |
+| **[Ecommerce-Churn-Data-Platform](https://github.com/Wardlexy/Ecommerce-Churn-Data-Platform)** | churn data platform: etl, dbt models, airflow orchestration, dashboard | python, dbt, airflow |
 | **[Retail-Big-Data-Lakehouse-Forecasting](https://github.com/Wardlexy/Retail-Big-Data-Lakehouse-Forecasting)** | bronze / silver / gold lakehouse with quality checks and bi marts | spark, delta |
-| **[Job-Market-Skill-Analytics-Pipeline](https://github.com/Wardlexy/Job-Market-Skill-Analytics-Pipeline)** | pipeline that pulls and analyzes in-demand tech skills from job listings | python, sql |
 | **[Ward-Agent-Studio](https://github.com/Wardlexy/Ward-Agent-Studio)** | isometric multi-room ai agent workspace &middot; [live](https://ward-agent-studio.vercel.app) | typescript, react |
-| **[NutriCheck](https://github.com/Wardlexy/NutriCheck)** | nutrition-scanning web app &middot; [live](https://aol-nutri-check.vercel.app/) | typescript, react |
+| **[blue-carbon-registry](https://github.com/Wardlexy/blue-carbon-registry)** | rest api for a blue carbon credit registry: jwt roles, credit issuance, and orders that retire credits so they can't be sold twice | fastapi, sqlalchemy, postgres |
 
 ### Contributions
 
