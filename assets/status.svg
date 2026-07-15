@@ -8,17 +8,17 @@
   </circle>
   <text x="42" y="32" fill="#8B949E" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="16">status:</text>
   <g font-family="Consolas, Monaco, 'Courier New', monospace" font-size="16">
-    <text x="116" y="32" fill="#F0F6FC" opacity="1">building useful things
+    <text x="116" y="32" fill="#F0F6FC" opacity="1">building data &amp; apis
       <animate attributeName="opacity" values="1;1;0;0;0;1" keyTimes="0;0.28;0.34;0.66;0.9;1" dur="9s" repeatCount="indefinite"/>
     </text>
-    <text x="116" y="32" fill="#F0F6FC" opacity="0">cleaning messy ideas
+    <text x="116" y="32" fill="#F0F6FC" opacity="0">reliable over clever
       <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.28;0.34;0.61;0.67;1" dur="9s" repeatCount="indefinite"/>
     </text>
-    <text x="116" y="32" fill="#F0F6FC" opacity="0">shipping, then refining
+    <text x="116" y="32" fill="#F0F6FC" opacity="0">always shipping
       <animate attributeName="opacity" values="0;0;0;0;1;1;0" keyTimes="0;0.58;0.64;0.66;0.72;0.93;1" dur="9s" repeatCount="indefinite"/>
     </text>
   </g>
-  <rect x="330" y="16" width="9" height="21" fill="#F0F6FC">
+  <rect x="298" y="16" width="9" height="21" fill="#F0F6FC">
     <animate attributeName="opacity" values="1;1;0;0;1" dur="1s" repeatCount="indefinite"/>
   </rect>
   <path d="M430 26H594" stroke="#30363D" stroke-width="4" stroke-linecap="round"/>

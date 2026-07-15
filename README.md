@@ -2,8 +2,6 @@
   <img src="assets/banner.svg" alt="Wardlexy - minimalist developer profile banner" width="100%" />
 </p>
 
-<h1 align="center">Ward</h1>
-
 <p align="center">
   <img src="assets/status.svg" alt="animated status line" width="520" />
 </p>
