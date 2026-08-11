@@ -1,17 +1,17 @@
-<svg width="900" height="140" viewBox="0 0 900 140" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="820" height="128" viewBox="0 0 820 128" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Animated stack badges</title>
-  <desc id="desc">A monochrome row of subtly animated technology badges for Pure Data &amp; Backend Engineering.</desc>
+  <desc id="desc">A symmetrical monochrome grid of animated technology badges for Data &amp; Backend Engineering.</desc>
   <style>
     .badge { transform-box: fill-box; transform-origin: center; }
     .label { font-family: Consolas, Monaco, 'Courier New', monospace; font-size: 16px; font-weight: 700; letter-spacing: 1.6px; fill: #F0F6FC; }
     .mark { font-family: Consolas, Monaco, 'Courier New', monospace; font-size: 13px; font-weight: 700; fill: #111111; }
   </style>
-  <rect width="900" height="140" rx="12" fill="#0D1117"/>
+  <rect width="820" height="128" rx="12" fill="#0D1117"/>
   
-  <!-- ROW 1: DATA & BACKEND CORE -->
+  <!-- ROW 1: DATA CORE (5 BADGES CENTERED) -->
   <!-- PYTHON -->
-  <g class="badge" transform="translate(24 20)">
-    <animateTransform attributeName="transform" type="translate" values="24 20;24 15;24 20;24 23;24 20" dur="3.2s" repeatCount="indefinite"/>
+  <g class="badge" transform="translate(101 18)">
+    <animateTransform attributeName="transform" type="translate" values="101 18;101 13;101 18;101 21;101 18" dur="3.2s" repeatCount="indefinite"/>
     <rect width="126" height="38" rx="6" fill="#111111" stroke="#30363D"/>
     <rect x="14" y="10" width="18" height="18" rx="2" fill="#F0F6FC"/>
     <text class="mark" x="17" y="24">PY</text>
@@ -19,8 +19,8 @@
   </g>
 
   <!-- SQL -->
-  <g class="badge" transform="translate(162 20)">
-    <animateTransform attributeName="transform" type="translate" values="162 20;162 22;162 20;162 15;162 20" dur="3.5s" begin="0.2s" repeatCount="indefinite"/>
+  <g class="badge" transform="translate(243 18)">
+    <animateTransform attributeName="transform" type="translate" values="243 18;243 20;243 18;243 13;243 18" dur="3.5s" begin="0.2s" repeatCount="indefinite"/>
     <rect width="92" height="38" rx="6" fill="#111111" stroke="#30363D"/>
     <rect x="14" y="10" width="18" height="18" rx="2" fill="#F0F6FC"/>
     <text class="mark" x="17" y="24">SQ</text>
@@ -28,8 +28,8 @@
   </g>
 
   <!-- DBT -->
-  <g class="badge" transform="translate(266 20)">
-    <animateTransform attributeName="transform" type="translate" values="266 20;266 15;266 20;266 22;266 20" dur="3.1s" begin="0.4s" repeatCount="indefinite"/>
+  <g class="badge" transform="translate(351 18)">
+    <animateTransform attributeName="transform" type="translate" values="351 18;351 13;351 18;351 20;351 18" dur="3.1s" begin="0.4s" repeatCount="indefinite"/>
     <rect width="92" height="38" rx="6" fill="#111111" stroke="#30363D"/>
     <rect x="14" y="10" width="18" height="18" rx="2" fill="#F0F6FC"/>
     <text class="mark" x="18" y="24">DB</text>
@@ -37,8 +37,8 @@
   </g>
 
   <!-- AIRFLOW -->
-  <g class="badge" transform="translate(370 20)">
-    <animateTransform attributeName="transform" type="translate" values="370 20;370 23;370 20;370 16;370 20" dur="3.6s" begin="0.6s" repeatCount="indefinite"/>
+  <g class="badge" transform="translate(459 18)">
+    <animateTransform attributeName="transform" type="translate" values="459 18;459 21;459 18;459 14;459 18" dur="3.6s" begin="0.6s" repeatCount="indefinite"/>
     <rect width="134" height="38" rx="6" fill="#111111" stroke="#30363D"/>
     <rect x="14" y="10" width="18" height="18" rx="2" fill="#F0F6FC"/>
     <text class="mark" x="17" y="24">AF</text>
@@ -46,27 +46,27 @@
   </g>
 
   <!-- SPARK -->
-  <g class="badge" transform="translate(516 20)">
-    <animateTransform attributeName="transform" type="translate" values="516 20;516 16;516 20;516 23;516 20" dur="3.3s" begin="0.8s" repeatCount="indefinite"/>
+  <g class="badge" transform="translate(609 18)">
+    <animateTransform attributeName="transform" type="translate" values="609 18;609 14;609 18;609 21;609 18" dur="3.3s" begin="0.8s" repeatCount="indefinite"/>
     <rect width="110" height="38" rx="6" fill="#111111" stroke="#30363D"/>
     <rect x="14" y="10" width="18" height="18" rx="2" fill="#F0F6FC"/>
     <text class="mark" x="18" y="24">SP</text>
     <text class="label" x="44" y="25">SPARK</text>
   </g>
 
+  <!-- ROW 2: INFRASTRUCTURE & STORAGE (4 BADGES CENTERED) -->
   <!-- POSTGRESQL -->
-  <g class="badge" transform="translate(638 20)">
-    <animateTransform attributeName="transform" type="translate" values="638 20;638 23;638 20;638 16;638 20" dur="3.4s" begin="1.0s" repeatCount="indefinite"/>
+  <g class="badge" transform="translate(113 72)">
+    <animateTransform attributeName="transform" type="translate" values="113 72;113 67;113 72;113 75;113 72" dur="3.4s" begin="0.3s" repeatCount="indefinite"/>
     <rect width="154" height="38" rx="6" fill="#111111" stroke="#30363D"/>
     <rect x="14" y="10" width="18" height="18" rx="2" fill="#F0F6FC"/>
     <text class="mark" x="17" y="24">PG</text>
     <text class="label" x="44" y="25">POSTGRESQL</text>
   </g>
 
-  <!-- ROW 2: DATA INFRASTRUCTURE & BACKEND -->
   <!-- BIGQUERY -->
-  <g class="badge" transform="translate(24 76)">
-    <animateTransform attributeName="transform" type="translate" values="24 76;24 71;24 76;24 79;24 76" dur="3.4s" begin="0.3s" repeatCount="indefinite"/>
+  <g class="badge" transform="translate(285 72)">
+    <animateTransform attributeName="transform" type="translate" values="285 72;285 67;285 72;285 75;285 72" dur="3.4s" begin="0.5s" repeatCount="indefinite"/>
     <rect width="142" height="38" rx="6" fill="#111111" stroke="#30363D"/>
     <rect x="14" y="10" width="18" height="18" rx="2" fill="#F0F6FC"/>
     <text class="mark" x="17" y="24">BQ</text>
@@ -74,26 +74,20 @@
   </g>
 
   <!-- DUCKDB -->
-  <g class="badge" transform="translate(178 76)">
-    <animateTransform attributeName="transform" type="translate" values="178 76;178 71;178 76;178 78;178 76" dur="3.6s" begin="0.5s" repeatCount="indefinite"/>
+  <g class="badge" transform="translate(445 72)">
+    <animateTransform attributeName="transform" type="translate" values="445 72;445 67;445 72;445 74;445 72" dur="3.6s" begin="0.7s" repeatCount="indefinite"/>
     <rect width="124" height="38" rx="6" fill="#111111" stroke="#30363D"/>
     <rect x="14" y="10" width="18" height="18" rx="2" fill="#F0F6FC"/>
-    <text class="mark" x="17" y="24">DU</text>
+    <text class="mark" x="18" y="24">DU</text>
     <text class="label" x="44" y="25">DUCKDB</text>
   </g>
 
   <!-- DOCKER -->
-  <g class="badge" transform="translate(314 76)">
-    <animateTransform attributeName="transform" type="translate" values="314 76;314 78;314 76;314 71;314 76" dur="3.2s" begin="0.7s" repeatCount="indefinite"/>
+  <g class="badge" transform="translate(587 72)">
+    <animateTransform attributeName="transform" type="translate" values="587 72;587 74;587 72;587 67;587 72" dur="3.2s" begin="0.9s" repeatCount="indefinite"/>
     <rect width="120" height="38" rx="6" fill="#111111" stroke="#30363D"/>
     <rect x="14" y="10" width="18" height="18" rx="2" fill="#F0F6FC"/>
     <text class="mark" x="17" y="24">DK</text>
     <text class="label" x="44" y="25">DOCKER</text>
   </g>
-
-  <!-- ANIMATED STATUS PROGRESS BEAM -->
-  <path d="M450 95H864" stroke="#30363D" stroke-width="4" stroke-linecap="round"/>
-  <path d="M450 95H540" stroke="#8B949E" stroke-width="4" stroke-linecap="round">
-    <animate attributeName="d" values="M450 95H540;M450 95H864;M450 95H680;M450 95H540" dur="4s" repeatCount="indefinite"/>
-  </path>
 </svg>
