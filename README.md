@@ -17,14 +17,6 @@ Role       Data Engineer, Backend Engineer, Analytics Engineer
   <img alt="animated stack badges" src="assets/stack.svg" width="760">
 </p>
 
-### Featured
-
-| project | what it is | stack |
-| :-- | :-- | :-- |
-| **[Ecommerce-Churn-Data-Platform](https://github.com/Wardlexy/Ecommerce-Churn-Data-Platform)** | churn data platform: etl, dbt models, airflow orchestration, dashboard | python, dbt, airflow |
-| **[Retail-Big-Data-Lakehouse-Forecasting](https://github.com/Wardlexy/Retail-Big-Data-Lakehouse-Forecasting)** | bronze / silver / gold lakehouse with quality checks and bi marts | spark, delta |
-| **[Ward-Agent-Studio](https://github.com/Wardlexy/Ward-Agent-Studio)** | isometric multi-room ai agent workspace &middot; [live](https://ward-agent-studio.vercel.app) | typescript, react |
-
 ### Contributions
 
 <p align="center">
