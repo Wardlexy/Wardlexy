@@ -1,51 +1,134 @@
-<svg width="900" height="86" viewBox="0 0 900 86" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Animated stack badges</title>
-  <desc id="desc">A monochrome row of subtly animated technology badges.</desc>
-  <style>
-    .badge { transform-box: fill-box; transform-origin: center; }
-    .label { font-family: Consolas, Monaco, 'Courier New', monospace; font-size: 16px; font-weight: 700; letter-spacing: 1.6px; fill: #F0F6FC; }
-    .mark { font-family: Consolas, Monaco, 'Courier New', monospace; font-size: 13px; font-weight: 700; fill: #111111; }
-  </style>
-  <rect width="900" height="86" rx="12" fill="#0D1117"/>
-  <g class="badge" transform="translate(26 24)">
-    <animateTransform attributeName="transform" type="translate" values="26 24;26 19;26 24;26 27;26 24" dur="3.2s" repeatCount="indefinite"/>
-    <rect width="144" height="38" rx="6" fill="#111111" stroke="#30363D"/>
-    <rect x="14" y="10" width="18" height="18" rx="2" fill="#F0F6FC"/>
-    <text class="mark" x="18" y="24">JS</text>
-    <text class="label" x="44" y="25">JAVASCRIPT</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 100" width="820" height="100" fill="none">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@700&amp;display=swap');
+      
+      .badge {
+        fill: #161b22;
+        stroke: #30363d;
+        stroke-width: 1.2px;
+        transition: all 0.3s ease;
+      }
+      
+      .txt {
+        font-family: 'JetBrains Mono', monospace, -apple-system, sans-serif;
+        font-size: 11px;
+        font-weight: 700;
+        letter-spacing: 0.08em;
+        fill: #c9d1d9;
+      }
+
+      .icon {
+        fill: #8b949e;
+      }
+
+      /* Animated Glowing Border Beam */
+      @keyframes pulseBeam {
+        0% { opacity: 0.2; transform: translateX(-80px); }
+        50% { opacity: 1; transform: translateX(180px); }
+        100% { opacity: 0.2; transform: translateX(-80px); }
+      }
+
+      .pulse-line {
+        animation: pulseBeam 3.5s ease-in-out infinite;
+      }
+    </style>
+    <linearGradient id="beamGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0" />
+      <stop offset="50%" stop-color="#58a6ff" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#1f6feb" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <!-- ROW 1: DATA CORE -->
+  <!-- PYTHON -->
+  <g transform="translate(0, 5)">
+    <rect class="badge" x="0" y="0" width="104" height="38" rx="10" />
+    <path fill="#3776ab" d="M19 11c-2.2 0-4 1.8-4 4v3h4v1h-5c-2.2 0-4 1.8-4 4v3c0 2.2 1.8 4 4 4h2v-3c0-1.7 1.3-3 3-3h5c1.7 0 3-1.3 3-3v-5c0-2.2-1.8-4-4-4h-4zm-1 3a1 1 0 1 1 0 2 1 1 0 0 1 0-2z" />
+    <path fill="#ffd43b" d="M25 24v-3c0-1.7-1.3-3-3-3h-5c-1.7 0-3 1.3-3 3v5c0 2.2 1.8 4 4 4h4c2.2 0 4-1.8 4-4v-3h-4v-1h5c2.2 0 4-1.8 4-4v-3c0-2.2-1.8-4-4-4h-2zm-1 5a1 1 0 1 1 0 2 1 1 0 0 1 0-2z" />
+    <text class="txt" x="34" y="23">PYTHON</text>
   </g>
-  <g class="badge" transform="translate(188 24)">
-    <animateTransform attributeName="transform" type="translate" values="188 24;188 26;188 24;188 19;188 24" dur="3.5s" begin="0.25s" repeatCount="indefinite"/>
-    <rect width="154" height="38" rx="6" fill="#111111" stroke="#30363D"/>
-    <rect x="14" y="10" width="18" height="18" rx="2" fill="#F0F6FC"/>
-    <text class="mark" x="18" y="24">TS</text>
-    <text class="label" x="44" y="25">TYPESCRIPT</text>
+
+  <!-- SQL -->
+  <g transform="translate(112, 5)">
+    <rect class="badge" x="0" y="0" width="82" height="38" rx="10" />
+    <path fill="#336791" d="M20 13c-3.9 0-7 1.3-7 3v10c0 1.7 3.1 3 7 3s7-1.3 7-3V16c0-1.7-3.1-3-7-3zm0 2c3.1 0 5 0.9 5 1s-1.9 1-5 1-5-0.9-5-1 1.9-1 5-1zm0 5c3.1 0 5 0.9 5 1s-1.9 1-5 1-5-0.9-5-1 1.9-1 5-1zm0 5c3.1 0 5 0.9 5 1s-1.9 1-5 1-5-0.9-5-1 1.9-1 5-1z" />
+    <text class="txt" x="33" y="23">SQL</text>
   </g>
-  <g class="badge" transform="translate(360 24)">
-    <animateTransform attributeName="transform" type="translate" values="360 24;360 19;360 24;360 26;360 24" dur="3.1s" begin="0.5s" repeatCount="indefinite"/>
-    <rect width="132" height="38" rx="6" fill="#111111" stroke="#30363D"/>
-    <circle cx="23" cy="19" r="10" fill="none" stroke="#F0F6FC" stroke-width="1.6"/>
-    <text class="mark" x="18" y="24" fill="#F0F6FC">N</text>
-    <text class="label" x="44" y="25">NODE.JS</text>
+
+  <!-- DBT -->
+  <g transform="translate(202, 5)">
+    <rect class="badge" x="0" y="0" width="80" height="38" rx="10" />
+    <path fill="#ff6b4a" d="M20 12l6 5-6 5-6-5 6-5zm-6 7l6 5-6 5v-10zm12 0v10l-6-5 6-5z" />
+    <text class="txt" x="33" y="23">DBT</text>
   </g>
-  <g class="badge" transform="translate(510 24)">
-    <animateTransform attributeName="transform" type="translate" values="510 24;510 27;510 24;510 20;510 24" dur="3.6s" begin="0.75s" repeatCount="indefinite"/>
-    <rect width="112" height="38" rx="6" fill="#111111" stroke="#30363D"/>
-    <circle cx="23" cy="19" r="3" fill="#F0F6FC"/>
-    <ellipse cx="23" cy="19" rx="13" ry="5" stroke="#F0F6FC" stroke-width="1.4"/>
-    <ellipse cx="23" cy="19" rx="13" ry="5" stroke="#F0F6FC" stroke-width="1.4" transform="rotate(60 23 19)"/>
-    <ellipse cx="23" cy="19" rx="13" ry="5" stroke="#F0F6FC" stroke-width="1.4" transform="rotate(120 23 19)"/>
-    <text class="label" x="44" y="25">REACT</text>
+
+  <!-- AIRFLOW -->
+  <g transform="translate(290, 5)">
+    <rect class="badge" x="0" y="0" width="108" height="38" rx="10" />
+    <path fill="#017cee" d="M20 12c-2.2 0-4 1.8-4 4s1.8 4 4 4 4-1.8 4-4-1.8-4-4-4zm5-3c-1.1 0-2 0.9-2 2v2h4c1.1 0 2-0.9 2-2s-0.9-2-2-2h-2zm-10 8c-1.1 0-2 0.9-2 2s0.9 2 2 2h2v-4h-2zm8 6c0 1.1 0.9 2 2 2s2-0.9 2-2v-2h-4v2zm-6-14c0-1.1-0.9-2-2-2s-2 0.9-2 2v2h4v-2z" />
+    <text class="txt" x="33" y="23">AIRFLOW</text>
   </g>
-  <g class="badge" transform="translate(640 24)">
-    <animateTransform attributeName="transform" type="translate" values="640 24;640 20;640 24;640 27;640 24" dur="3.3s" begin="1s" repeatCount="indefinite"/>
-    <rect width="86" height="38" rx="6" fill="#111111" stroke="#30363D"/>
-    <path d="M23 8L34 19L23 30L12 19L23 8Z" fill="#F0F6FC"/>
-    <path d="M19 15L27 23M23 12V26" stroke="#111111" stroke-width="1.7" stroke-linecap="round"/>
-    <text class="label" x="44" y="25">GIT</text>
+
+  <!-- SPARK -->
+  <g transform="translate(406, 5)">
+    <rect class="badge" x="0" y="0" width="92" height="38" rx="10" />
+    <path fill="#e25a1c" d="M20 12l2 4 4 2-4 2-2 4-2-4-4-2 4-2 2-4zm5 9l1 2 2 1-2 1-1 2-1-2-2-1 2-1 1-2z" />
+    <text class="txt" x="33" y="23">SPARK</text>
   </g>
-  <path d="M764 43H846" stroke="#30363D" stroke-width="4" stroke-linecap="round"/>
-  <path d="M764 43H798" stroke="#8B949E" stroke-width="4" stroke-linecap="round">
-    <animate attributeName="d" values="M764 43H786;M764 43H846;M764 43H798;M764 43H786" dur="4s" repeatCount="indefinite"/>
-  </path>
+
+  <!-- DUCKDB -->
+  <g transform="translate(506, 5)">
+    <rect class="badge" x="0" y="0" width="100" height="38" rx="10" />
+    <path fill="#fff000" d="M19 13c-2 0-3.5 1.5-3.5 3.5S17 20 19 20s3.5-1.5 3.5-3.5S21 13 19 13zm5 2h2v3h-2v-3z" />
+    <text class="txt" x="32" y="23">DUCKDB</text>
+  </g>
+
+  <!-- BIGQUERY -->
+  <g transform="translate(614, 5)">
+    <rect class="badge" x="0" y="0" width="112" height="38" rx="10" />
+    <path fill="#4285f4" d="M19 13c-2.2 0-4 1.8-4 4 0 0.3 0.1 0.6 0.2 0.9C13.9 18.3 13 19.5 13 21c0 2.2 1.8 4 4 4h10c1.7 0 3-1.3 3-3 0-1.4-1-2.5-2.3-2.9 0.2-0.4 0.3-0.7 0.3-1.1 0-2.2-1.8-4-4-4-0.6 0-1.2 0.1-1.7 0.4C21.6 13.5 20.4 13 19 13z" />
+    <text class="txt" x="33" y="23">BIGQUERY</text>
+  </g>
+
+  <!-- ROW 2: ENGINEERING & INFRASTRUCTURE -->
+  <!-- TYPESCRIPT -->
+  <g transform="translate(0, 52)">
+    <rect class="badge" x="0" y="0" width="124" height="38" rx="10" />
+    <rect x="13" y="11" width="16" height="16" rx="3" fill="#3178c6" />
+    <text x="16" y="23" font-family="'JetBrains Mono', monospace" font-size="9" font-weight="900" fill="#ffffff">TS</text>
+    <text class="txt" x="36" y="23">TYPESCRIPT</text>
+  </g>
+
+  <!-- REACT -->
+  <g transform="translate(132, 52)">
+    <rect class="badge" x="0" y="0" width="94" height="38" rx="10" />
+    <ellipse cx="21" cy="19" rx="7" ry="3" fill="none" stroke="#61dafb" stroke-width="1.2" transform="rotate(30 21 19)" />
+    <ellipse cx="21" cy="19" rx="7" ry="3" fill="none" stroke="#61dafb" stroke-width="1.2" transform="rotate(90 21 19)" />
+    <ellipse cx="21" cy="19" rx="7" ry="3" fill="none" stroke="#61dafb" stroke-width="1.2" transform="rotate(150 21 19)" />
+    <circle cx="21" cy="19" r="1.5" fill="#61dafb" />
+    <text class="txt" x="35" y="23">REACT</text>
+  </g>
+
+  <!-- DOCKER -->
+  <g transform="translate(234, 52)">
+    <rect class="badge" x="0" y="0" width="100" height="38" rx="10" />
+    <path fill="#2496ed" d="M14 18h2v-2h-2v2zm3 0h2v-2h-2v2zm-6 0h2v-2h-2v2zm3-3h2v-2h-2v2zm3 0h2v-2h-2v2zm3 0h2v-2h-2v2zm-9 0h2v-2h-2v2zm12 3h2v-2h-2v2zm2-2c-.3-.2-.9-.3-1.6-.2-.3-.5-.7-.9-1.2-1.2l-.4-.2-.2.4c-.4.9-.3 1.8.2 2.5-.4.2-1 .3-1.6.3H11c-.5 0-1 .2-1.4.5-.4.4-.6.9-.6 1.4 0 2.2 2.5 4 6.5 4 3.7 0 6.1-1.6 6.8-3.4.4.1.8.1 1.2 0 .5-.2.9-.5 1.1-.9l.2-.3-.4-.1c-.4-.1-.8 0-1.1.2z" />
+    <text class="txt" x="34" y="23">DOCKER</text>
+  </g>
+
+  <!-- GIT -->
+  <g transform="translate(342, 52)">
+    <rect class="badge" x="0" y="0" width="80" height="38" rx="10" />
+    <path fill="#f05032" d="M23.5 18.2l-7.7-7.7V7.8c.8-.4 1.3-1.2 1.3-2.1 0-1.3-1.1-2.4-2.4-2.4S12.3 4.4 12.3 5.7c0 .9.5 1.7 1.3 2.1v4.8c-.8.4-1.3 1.2-1.3 2.1 0 1 .6 1.8 1.4 2.2l-3 3c-.4-.2-.8-.3-1.3-.3-1.3 0-2.4 1.1-2.4 2.4s1.1 2.4 2.4 2.4 2.4-1.1 2.4-2.4c0-.5-.1-.9-.3-1.3l3-3c.4.2.8.3 1.3.3.9 0 1.7-.5 2.1-1.3h4.9c.4.8 1.2 1.3 2.1 1.3 1.3 0 2.4-1.1 2.4-2.4 0-1.3-1.1-2.4-2.4-2.4z" />
+    <text class="txt" x="33" y="23">GIT</text>
+  </g>
+
+  <!-- ANIMATED STATUS BEAM -->
+  <g transform="translate(432, 52)">
+    <rect class="badge" x="0" y="0" width="294" height="38" rx="10" stroke-dasharray="4 4" opacity="0.8" />
+    <rect class="pulse-line" x="5" y="18" width="284" height="2" fill="url(#beamGrad)" rx="1" />
+    <circle cx="20" cy="19" r="3" fill="#38d430" />
+    <text class="txt" x="32" y="23" fill="#8b949e" font-size="10">STATUS: BUILDING DATA PIPELINES</text>
+  </g>
 </svg>
