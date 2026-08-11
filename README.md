@@ -7,8 +7,8 @@
 ### About
 
 ```txt
-role       data engineer, backend engineer
-focus      data pipelines, backend apis, clean delivery layers
+Role       Data Engineer, Backend Engineer, Analytics Engineer
+                          I'm from Bali Country
 ```
 
 ### Stack
