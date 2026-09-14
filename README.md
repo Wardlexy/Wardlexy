@@ -4,13 +4,6 @@
 
 ---
 
-### About
-
-```txt
-Role:      Data Engineer, Backend Engineer, Analytics Engineer
-           I'm from Bali Country
-```
-
 ### Stack
 
 <p align="center">
