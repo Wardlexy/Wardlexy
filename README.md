@@ -12,8 +12,6 @@
 
 ### Contributions
 
-### Contributions
-
 <p align="center">
   <img
     alt="wardalxndr contribution activity graph"
